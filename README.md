@@ -14,8 +14,14 @@ Files are pulled from:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
 The source columns are very well documented in the link provided so I wont reproduce the same documentation here but the first two columns are not documented.
+They have the same names here and the only differente here is that they are an average of all the values for that subject and activity.
 
 Undocumented:
 * "subject" is the id of the person performing the activities
 * "activity" is the activity performed
+
+
+This explaination should satisfy the 
+> ...updates the codebooks available to you...
+requirement
 
