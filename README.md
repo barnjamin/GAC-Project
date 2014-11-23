@@ -15,7 +15,7 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 The source columns are very well documented in the link provided so I wont reproduce the same documentation here but the first two columns are not documented.
 
-Those are:
-    - "subject" is the id of the person performing the activities
-    - "activity" is the activity performed
+Undocumented:
+* "subject" is the id of the person performing the activities
+* "activity" is the activity performed
 
